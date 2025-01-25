@@ -45,9 +45,9 @@ The desktop application includes the following features:
   - Two spectrograms for visualizing input and output signals.
   - A combobox for switching between different modes:
     - **Uniform Range Mode**: Divides the total frequency range of the input signal into 10 equal ranges, each controlled by a slider.
-    - **Vowels Mode**: Controls the magnitude of specific vowels based on their frequency components.
-    - **Musical Instruments Mode**: Adjusts the magnitude of specific musical instruments in the input signal.
-    - **Biological Signal Abnormalities**: Controls the magnitude of specific abnormalities (e.g., ECG arrhythmia) in biological signals.
+    - **Music and Vowels Mode**: Controls the magnitude of specific instruments or vowels based on their frequency components.
+    - **Music and Animal Mode**: Adjusts the magnitude of specific musical instruments or animal sounds in the input signal.
+    - **Weiner Mode**: Reduces noise and enhances the quality of the input signal using the Wiener filtering technique, which minimizes the mean square error between the estimated and original signals.
 
 ## Getting Started
 To set up the Signal Equalizer desktop application, follow these steps:
